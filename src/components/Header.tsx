@@ -5,8 +5,8 @@ import igniteLogo from "../assets/react.svg";
 export default function Header() {
     return (
         <header className={styles.header}>
-            <img src={igniteLogo} alt="Logotipo do React" />
-            <strong className={styles.headerTitle}>Ignite Feed</strong>
+            {/* <img src={igniteLogo} alt="Logotipo do React" /> */}
+            <strong className={styles.headerTitle}>Feed de Postagens</strong>
         </header>
     );
 }
