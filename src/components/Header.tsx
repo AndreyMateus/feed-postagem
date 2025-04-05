@@ -1,6 +1,6 @@
 import styles from "./Header.module.css";
 
-import igniteLogo from "../assets/react.svg";
+// import igniteLogo from "../assets/react.svg";
 
 export default function Header() {
     return (
